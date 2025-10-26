@@ -1,6 +1,12 @@
-2025/10/26-23:49:38.486 42e4 Reusing MANIFEST D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
-2025/10/26-23:49:38.488 42e4 Recovering log #13
-2025/10/26-23:49:38.489 42e4 Reusing old log D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\EdgeCoupons/coupons_data.db/000013.log 
-2025/10/26-23:49:38.662 2d04 Level-0 table #17: started
-2025/10/26-23:49:38.667 2d04 Level-0 table #17: 672344 bytes OK
-2025/10/26-23:49:38.671 2d04 Delete type=0 #13
+2025/10/27-00:11:50.712 5984 Reusing MANIFEST D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/10/27-00:11:50.714 5984 Recovering log #16
+2025/10/27-00:11:50.717 5984 Level-0 table #19: started
+2025/10/27-00:11:50.724 5984 Level-0 table #19: 672344 bytes OK
+2025/10/27-00:11:50.724 5984 Recovering log #19
+2025/10/27-00:11:50.725 5984 Reusing old log D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\EdgeCoupons/coupons_data.db/000019.log 
+2025/10/27-00:11:50.728 5984 Delete type=0 #16
+2025/10/27-00:11:50.729 5984 Delete type=2 #20
+2025/10/27-00:11:50.730 6390 Compacting 4@0 + 1@1 files
+2025/10/27-00:11:50.738 6390 Level-0 table #21: started
+2025/10/27-00:11:50.744 6390 Level-0 table #21: 672344 bytes OK
+2025/10/27-00:11:50.748 6390 compacted to: files[ 4 1 1 0 0 0 0 ]

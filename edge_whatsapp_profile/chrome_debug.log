@@ -1,18 +1,12 @@
-[9292:13740:1026/234930.762:WARNING:chrome\browser\extensions\activity_log\activity_log_policy.cc:68] Scheduling init
-[9292:13740:1026/234930.762:WARNING:chrome\browser\extensions\activity_log\activity_log_policy.cc:68] Scheduling init
-[23664:9832:1026/234930.975:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
-[17376:7184:1026/234931.033:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
-[1944:12148:1026/234931.638:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
-[6324:20988:1026/234932.050:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
-[9292:13740:1026/234932.105:INFO:CONSOLE:2] "Error while attempting to measure start/end of 'AdServiceCall.SuperFeed'. Error: SyntaxError: Failed to execute 'measure' on 'Performance': The mark 'AdServiceCall.SuperFeed-start' does not exist. [object Object] Sun Oct 26 2025 23:49:32 GMT+0530 (India Standard Time)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.476c8f46cfb5f23dde6e.js (2)
-[15460:26556:1026/234932.171:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
-[9292:13740:1026/234932.460:INFO:CONSOLE:113] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yl/r/T4ZL7cu9KG6.js (113)
-[16844:12584:1026/234932.924:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
-[9292:13740:1026/234938.188:WARNING:chrome\browser\edge_underside\underside_helper.cc:1280] If test does not need FrontLoad, this may be expected. SetFrontLoadDecision: 3
-[9292:13740:1026/234938.190:WARNING:chrome\browser\ui\edge_window_tab_manager\api\wtm_image_web_contents_helper.cc:872] Favicon request has been preempted. Skipping.  old request_start_time=2025-10-26 18:19:31.124308 UTC, pending_favicon_request_start_time_=2025-10-26 18:19:33.495813 UTC
-[9292:13740:1026/234938.191:WARNING:chrome\browser\ui\edge_window_tab_manager\api\wtm_image_web_contents_helper.cc:872] Favicon request has been preempted. Skipping.  old request_start_time=2025-10-26 18:19:31.907737 UTC, pending_favicon_request_start_time_=2025-10-26 18:19:33.495812 UTC
-[9292:13740:1026/234938.191:WARNING:chrome\browser\ui\edge_window_tab_manager\api\wtm_image_web_contents_helper.cc:872] Favicon request has been preempted. Skipping.  old request_start_time=2025-10-26 18:19:32.633779 UTC, pending_favicon_request_start_time_=2025-10-26 18:19:33.495813 UTC
-[17672:7864:1026/234938.260:INFO:components\services\edge_entity_extraction\extractor_impl.cc:990] ExtractorImpl::SetIsPendingEEConfig : 1
-[9292:13740:1026/234939.325:INFO:CONSOLE:113] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yl/r/T4ZL7cu9KG6.js (113)
-[12440:17488:1026/234952.310:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:180] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:236 to client_task_runner_.
-[12440:17488:1026/234952.310:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:180] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:236 to client_task_runner_.
+[15348:13072:1027/001126.531:WARNING:chrome\browser\extensions\activity_log\activity_log_policy.cc:68] Scheduling init
+[15348:13072:1027/001126.532:WARNING:chrome\browser\extensions\activity_log\activity_log_policy.cc:68] Scheduling init
+[16612:20492:1027/001126.771:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[22648:26052:1027/001127.386:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[23304:20352:1027/001127.489:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[21484:20460:1027/001127.930:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[15348:13072:1027/001128.072:INFO:CONSOLE:2] "Error while attempting to measure start/end of 'AdServiceCall.SuperFeed'. Error: SyntaxError: Failed to execute 'measure' on 'Performance': The mark 'AdServiceCall.SuperFeed-start' does not exist. [object Object] Mon Oct 27 2025 00:11:28 GMT+0530 (India Standard Time)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.476c8f46cfb5f23dde6e.js (2)
+[23844:5236:1027/001128.119:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[15348:13072:1027/001128.562:INFO:CONSOLE:113] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yl/r/T4ZL7cu9KG6.js (113)
+[16396:23976:1027/001128.952:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[26324:7632:1027/001150.662:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:180] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:236 to client_task_runner_.
+[26324:7632:1027/001150.663:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:180] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:236 to client_task_runner_.
