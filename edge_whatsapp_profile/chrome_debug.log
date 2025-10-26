@@ -1,0 +1,13 @@
+[19028:18292:1026/231555.254:WARNING:chrome\browser\extensions\activity_log\activity_log_policy.cc:68] Scheduling init
+[19028:18292:1026/231555.254:WARNING:chrome\browser\extensions\activity_log\activity_log_policy.cc:68] Scheduling init
+[19500:23540:1026/231555.512:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[26112:13420:1026/231555.574:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[24868:14348:1026/231556.328:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[19812:17064:1026/231556.728:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[4524:5688:1026/231556.787:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[19028:18292:1026/231556.914:INFO:CONSOLE:2] "Error while attempting to measure start/end of 'AdServiceCall.SuperFeed'. Error: SyntaxError: Failed to execute 'measure' on 'Performance': The mark 'AdServiceCall.SuperFeed-start' does not exist. [object Object] Sun Oct 26 2025 23:15:56 GMT+0530 (India Standard Time)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.476c8f46cfb5f23dde6e.js (2)
+[19028:18292:1026/231556.939:INFO:CONSOLE:2] "PSL: Preferences API does not have background_setting_preferences. [object Object] Sun Oct 26 2025 23:15:56 GMT+0530 (India Standard Time)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.476c8f46cfb5f23dde6e.js (2)
+[19028:18292:1026/231557.181:INFO:CONSOLE:113] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yl/r/T4ZL7cu9KG6.js (113)
+[23512:2720:1026/231557.533:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[8508:15004:1026/231616.961:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:180] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:236 to client_task_runner_.
+[8508:15004:1026/231616.962:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:180] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:236 to client_task_runner_.

@@ -1,0 +1,6 @@
+2025/10/26-23:16:17.011 2a88 Reusing MANIFEST D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/10/26-23:16:17.012 2a88 Recovering log #4
+2025/10/26-23:16:17.013 2a88 Reusing old log D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\EdgeCoupons/coupons_data.db/000004.log 
+2025/10/26-23:16:17.023 6538 Level-0 table #8: started
+2025/10/26-23:16:17.028 6538 Level-0 table #8: 672344 bytes OK
+2025/10/26-23:16:17.031 6538 Delete type=0 #4
