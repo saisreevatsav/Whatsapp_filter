@@ -1,5 +1,6 @@
-2025/10/26-23:11:38.823 3014 Creating DB D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\EdgeCoupons/coupons_data.db since it was missing.
-2025/10/26-23:11:38.842 3014 Reusing MANIFEST D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
-2025/10/26-23:11:40.099 49c4 Level-0 table #5: started
-2025/10/26-23:11:40.104 49c4 Level-0 table #5: 672241 bytes OK
-2025/10/26-23:11:40.108 49c4 Delete type=0 #3
+2025/10/26-23:41:46.614 2794 Reusing MANIFEST D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/10/26-23:41:46.617 2794 Recovering log #10
+2025/10/26-23:41:46.618 2794 Reusing old log D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\EdgeCoupons/coupons_data.db/000010.log 
+2025/10/26-23:41:46.937 2d6c Level-0 table #14: started
+2025/10/26-23:41:46.943 2d6c Level-0 table #14: 672344 bytes OK
+2025/10/26-23:41:46.946 2d6c Delete type=0 #10

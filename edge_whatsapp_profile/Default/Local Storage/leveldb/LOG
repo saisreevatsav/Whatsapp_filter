@@ -1,3 +1,6 @@
-2025/10/26-23:15:55.358 101c Reusing MANIFEST D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
-2025/10/26-23:15:55.366 101c Recovering log #3
-2025/10/26-23:15:55.370 101c Reusing old log D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\Local Storage\leveldb/000003.log 
+2025/10/26-23:49:30.873 6d0 Reusing MANIFEST D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/10/26-23:49:30.882 6d0 Recovering log #3
+2025/10/26-23:49:30.885 6d0 Reusing old log D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\Local Storage\leveldb/000003.log 
+2025/10/26-23:49:37.951 4b30 Level-0 table #5: started
+2025/10/26-23:49:37.959 4b30 Level-0 table #5: 19121 bytes OK
+2025/10/26-23:49:37.970 4b30 Delete type=0 #3

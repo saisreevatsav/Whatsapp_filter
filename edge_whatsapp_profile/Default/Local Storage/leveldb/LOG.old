@@ -1,2 +1,3 @@
-2025/10/26-23:11:29.319 558c Creating DB D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\Local Storage\leveldb since it was missing.
-2025/10/26-23:11:29.347 558c Reusing MANIFEST D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/10/26-23:41:32.320 4b98 Reusing MANIFEST D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/10/26-23:41:32.329 4b98 Recovering log #3
+2025/10/26-23:41:32.332 4b98 Reusing old log D:\Projects\Whatsapp_Filter\edge_whatsapp_profile\Default\Local Storage\leveldb/000003.log 
